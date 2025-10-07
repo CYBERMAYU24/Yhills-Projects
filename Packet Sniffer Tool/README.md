@@ -62,8 +62,8 @@ pip install scapy
    git clone https://github.com/yourusername/packet-sniffer-tool.git
    cd packet-sniffer-tool
    ```
-2. Download the zip file here and make sure you have all the requirements satisfied =
-   https://github.com/CYBERMAYU24/Yhills-Projects/releases/tag/v1 
+2. Download the zip file here and make sure you have all the requirements satisfied
+   = https://github.com/CYBERMAYU24/Yhills-Projects/releases/tag/v1 
 
 3. Run the script:
 
