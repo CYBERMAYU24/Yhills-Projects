@@ -20,12 +20,12 @@ The main objective of this project is to carry out vulnerability scanning and pe
 ## 2.5 Example Scans (Simulated)
 Simulated Nmap scan output displaying open ports and active services:
 
- <img width="576" height="152" alt="image" src="https://github.com/user-attachments/assets/b1ea6134-9b50-4815-a22e-09ab16d76c46" />
+ <img width="585" height="200" alt="image" src="https://github.com/user-attachments/assets/b1ea6134-9b50-4815-a22e-09ab16d76c46" />
 
 Figure 2.1 – Simulated Nmap Scan Output
 Simulated Metasploit session demonstrating a controlled reverse shell exploit:
 
- <img width="576" height="177" alt="image" src="https://github.com/user-attachments/assets/9effbf67-231e-480a-ae4d-599628308a26" />
+ <img width="590" height="200" alt="image" src="https://github.com/user-attachments/assets/9effbf67-231e-480a-ae4d-599628308a26" />
 
 Figure 2.2 – Simulated Metasploit Exploit Session
 
