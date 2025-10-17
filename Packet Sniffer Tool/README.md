@@ -1,6 +1,6 @@
 
-# 🕵️‍♂️ Packet Sniffer and Analysis Tool
-
+# 🕵️‍♂️Mini Projet 2 : Packet Sniffer and Analysis Tool
+ 
 A Python-based **Network Packet Sniffer and Analyzer** built using **Scapy** and **Tkinter**.  
 This tool captures, inspects, and analyzes live network packets in real time.  
 It highlights suspicious activity, supports custom filters, and generates detailed reports.
